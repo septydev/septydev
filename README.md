@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @septydev
+- 👀 I’m interested in Python, JavaScript, C+
+- 🌱 I’m currently learning C++
+- 📫 How to reach me : Send a message on discord.
+- ⚡ Fun fact: All starts from a CD
